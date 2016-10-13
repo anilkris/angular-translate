@@ -12,7 +12,7 @@ next level: **Multi Language Support**.
 
 Of course, it's pretty cool to know how to use the components angular-translate
 provides, but things are getting really interesting when it comes to teaching your
-apps more then just one language (which is actually what this module is for!).
+apps more than just one language (which is actually what this module is for!).
 So let's get started by learning how to add different translation tables at a time!
 
 ## Teaching your app more languages
